@@ -12,4 +12,4 @@ endpoints:
 dependencies:
     connectionReferences:
     - name: openai-conn
-      resourceRef: thirdparty:openai2/1.0.0
+      resourceRef: thirdparty:openai2/v1
